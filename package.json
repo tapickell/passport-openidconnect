@@ -1,6 +1,6 @@
 {
-  "name": "ge-passport-openidconnect",
-  "version": "0.0.3",
+  "name": "passport-openidconnect",
+  "version": "0.0.2",
   "description": "OpenID Connect authentication strategy for GE Passport.",
   "keywords": [
     "passport",
